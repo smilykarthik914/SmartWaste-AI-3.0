@@ -58,7 +58,7 @@ This is an educational machine learning project. Classification results depend o
 
 Author
 
-K V Sairam
+G SMILY
 
 Project
 
